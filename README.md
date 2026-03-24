@@ -1,2 +1,1 @@
-# ML_Project
-Basic ML Project for classification
+MINI-PROJECT: Loan Eligibility Prediction Classification using Machine Learning
